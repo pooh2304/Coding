@@ -1,0 +1,1 @@
+/*WAP to display content of particular member using pointer.*/
